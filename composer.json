@@ -1,5 +1,5 @@
 {
-  "name": "mrjgreen/db-sync",
+  "name": "valentinceaprazaru/db-sync",
   "type": "library",
   "description": "Efficient MySQL comparison and sync utility",
   "license" : "MIT",
@@ -17,9 +17,7 @@
   },
   "require": {
     "psr/log": "~1.0",
-    "symfony/console": "~3.2",
     "mrjgreen/database": "~2.5",
-    "symfony/debug": "~3.2",
     "ramsey/array_column": "~1.1"
   },
   "require-dev": {
